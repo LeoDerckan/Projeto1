@@ -2,5 +2,12 @@ Estudo de classes.
 
 Hoje aprendi isso.
 
+<<<<<<< HEAD
 Linha no ramo master.
 criação de hje
+=======
+linha adicionada no ramo alternativo.
+linha adicionada no ramo 2.
+
+
+>>>>>>> alternativo
