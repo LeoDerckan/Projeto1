@@ -3,3 +3,6 @@ Estudo de classes.
 Hoje aprendi isso.
 
 linha adicionada no ramo alternativo.
+linha adicionada no ramo 2.
+
+
